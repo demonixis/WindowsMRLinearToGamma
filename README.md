@@ -8,6 +8,7 @@ You can take a look at the shader, it's very simple, basically it's "just" one l
 
 
 Be careful to use this image effect have to be the **last** on your camera to work correctly.
+Oh and of course it works with Single Pass Stereo Rendering! (Instanced not supported sorry).
 
 ## License
 This project is licensed under the MIT license.
