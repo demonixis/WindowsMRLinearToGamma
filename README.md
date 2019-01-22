@@ -1,6 +1,5 @@
 # WindowsMRLinearToGamma
-Windows Mixed Reality doesn't support the Linear Color Space, if you enable it, you'll see that the image in your HMD is darker than the preview on the screen.
-This is because the gamma correction is not applied. This image effect adds the gamma correction, allowing you to use the Linear color space with your Windows Mixed Reality headset.
+Windows Mixed Reality (UWP) doesn't support the Linear Color Space, if you enable it, you'll see that the image in your HMD is darker than the preview on the screen. This is because **the gamma correction is not applied**. This image effect adds the gamma correction, allowing you to use the Linear color space with your Windows Mixed Reality headset or the HoloLens. The project contains a single script or an extension for the Post Process Stack V2.
 
 ![Preview](https://github.com/demonixis/WindowsMRLinearToGamma/blob/master/Images/preview.jpg)
 
